@@ -20,4 +20,6 @@ Can Python catch Your Taste? Personalized Recommender Systems for WBSFLIX DVD St
 
 ## Data Analysis:
 
-Analyzing Brazilian Market Expansion Feasibility: Data Driven Businesses with SQL & Tableau: Utilized SQL and Tableau to assess the feasibility of Eniac's expansion, a tech-focused e-commerce company, into the Brazilian market using data from Magist's database. Prepared a concise presentation to recommend whether Eniac should pursue a deal with Magist, considering tech product suitability and delivery speed.
+1)Analyzing Brazilian Market Expansion Feasibility: Data Driven Businesses with SQL & Tableau: Utilized SQL and Tableau to assess the feasibility of Eniac's expansion, a tech-focused e-commerce company, into the Brazilian market using data from Magist's database. Prepared a concise presentation to recommend whether Eniac should pursue a deal with Magist, considering tech product suitability and delivery speed.
+
+2) Covid_19 Analysis : Number of Confirmed, Death and Recovered cases every day across the globe.
