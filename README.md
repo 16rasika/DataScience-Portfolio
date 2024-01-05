@@ -1,4 +1,4 @@
-# DataScience-Portfolio
+flix# DataScience-Portfolio
 
 ## Skill Based Projects
 
@@ -15,7 +15,7 @@ Automating Mood-Based Playlists with Data Science: Utilized Python to implement 
 ## Data Cleaning
 Unveiling Business Insights: Data Cleaning and Analysis for Optimal Decision-Making: Utilizing Python, this project applies advanced data techniques, including data cleaning, classification, and analysis, to provide actionable insights on product categorization, pricing distribution, discounts, seasonal trends, and data collection improvements for Eniac, an e-commerce tech company.
 ## Recommender System
-Can Python catch Your Taste? Personalized Recommender Systems for WBSFLIX DVD Store: Utilized Python to create personalized recommender systems for WBSFLIX, an offline DVD store transitioning online. By leveraging the store's database, the goal is to deliver tailored movie recommendations, similar to Netflix.
+Can Python catch Your Taste? Personalized Recommender Systems for Netflix: Utilized Python to create personalized recommender systems for Netflix. By leveraging the store's database, the goal is to deliver tailored movie recommendations.
 
 
 ## Data Analysis:
